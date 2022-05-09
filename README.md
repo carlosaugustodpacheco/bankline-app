@@ -1,4 +1,4 @@
-Segunda parte do Projeto Full-Stack - Santander DEV Week. Essa parte consiste na Front-End do projeto, onde foi criado uma aplicação web que se comunicará via requisições https baseadas na arquitetura REST no BND Bankline-API (https://github.com/carlosaugustodpacheco/bankline-api)  desenvolvida com Springboot e disponibilizada no Heroku que propõe um Bankline para gestão de correntistas e movimentações de receitas e despesas simples.
+Segunda parte do Projeto Full-Stack - Santander DEV Week. Essa parte consiste na Front-End do projeto, onde foi criado uma aplicação web que se comunicará via requisições https baseadas na arquitetura REST no BND Bankline-API (https://github.com/carlosaugustodpacheco/bankline-api)  desenvolvida com Springboot que propõe um Bankline para gestão de correntistas e movimentações de receitas e despesas simples.
 
 Para o desenvolvimento do app foi explorado a linguagem Angular, entre outras ferramentas e Frameworks.
 ![image](https://user-images.githubusercontent.com/68930974/167333098-60e62413-af00-4230-aefc-5a8f1bfc99e1.png)
